@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "1430899345473142916",
+    "smallImageText": "Dev par Startoto1007",
+    "smallImageKey": "startoto1007"
+  },
+  "servers": [
+    {
+      "id": "Hyping-1.21.4",
+      "name": "Hyping (Minecraft 1.21.4)",
+      "description": "Hyping — OneBlock & Survie SMP (1.21.4)",
+      "icon": "https://cdn.discordapp.com/icons/796699016858435586/0e3fca41e1b8290181ec273e57e71685.png",
+      "version": "1.0.0",
+      "address": "play.hyping.fr",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "Hyping",
+        "largeImageText": "Mise à jour Halloween disponible ! 🎃",
+        "largeImageKey": "halloween"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
+    }
+  ]
+}
